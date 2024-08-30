@@ -1,0 +1,1 @@
+# undertale-ending-checker
